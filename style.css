@@ -76,13 +76,13 @@ h1 {
 }
 
 #full3 {
-    border-left: 7px solid;
+    border-left: 10px solid;
     border-image: linear-gradient(blue, red);
     border-image-slice: 1;
 }
 
 #baby3 {
-    border-left: 7px solid;
+    border-left: 10px solid;
     border-image: linear-gradient(rgb(237, 199, 103), rgb(231, 67, 35));
     border-image-slice: 1;
 }
