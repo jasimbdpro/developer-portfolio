@@ -56,3 +56,37 @@ h1 {
     background-position: right;
 
 }
+
+.experience-item {
+    width: 40%;
+    box-shadow: 10px 10px 20px rgba(25, 134, 192, 0.57);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+
+}
+
+.experience-area {
+    background-image: url(images/small.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#full3 {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, red);
+    border-image-slice: 1;
+}
+
+#baby3 {
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(237, 199, 103), rgb(231, 67, 35));
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
