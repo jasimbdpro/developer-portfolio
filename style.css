@@ -51,5 +51,8 @@ section {
 
 .dream-big {
     margin-top: 20px;
+    background-image: url(images/half\ peremeter.png);
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
